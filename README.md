@@ -1,0 +1,5 @@
+---
+###WINDOW OBJECT
+   ##&
+###DOCUMENT OBJECT
+---
